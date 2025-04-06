@@ -1,2 +1,2 @@
-# Doraemon_Aditya_gupta
-Hello friends, here is my Doraemon project drawn using turtle graphics and looks very realistic as in cartoons. Please try the following code and create a Doraemon......................
+# Doraemon using Turtle
+Here is my Doraemon project drawn using turtle graphics. It looks very realistic as in cartoons.
